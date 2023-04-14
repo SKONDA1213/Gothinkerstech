@@ -1,2 +1,0 @@
-# Gothinkerstech
-Go Thinkers Tech
